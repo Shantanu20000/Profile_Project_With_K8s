@@ -58,14 +58,14 @@ html {
 }
 .top-right-logo {
     position: absolute;
-    top: 10px; /* Distance from the top of the page */
-    right: 10px; /* Distance from the right of the page */
+    top: 100px; /* Distance from the top of the page */
+    right: 100px; /* Distance from the right of the page */
     z-index: 1000; /* Ensure it appears above other elements */
     list-style: none; /* Remove list styling */
 }
 
 .aws-logo {
-    width: 40px; /* Adjust the size of the logo */
+    width: 600px; /* Adjust the size of the logo */
     height: auto; /* Maintain aspect ratio */
     border-radius: 50%; /* Optional: Make the logo circular */
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Optional: Add shadow */
