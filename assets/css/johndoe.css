@@ -65,7 +65,7 @@ html {
 }
 
 .aws-logo {
-    width: 200px; /* Adjust the size of the logo */
+    width: 150px; /* Adjust the size of the logo */
     height: auto; /* Maintain aspect ratio */
     border-radius: 50%; /* Optional: Make the logo circular */
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Optional: Add shadow */
